@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there! 👋
+I'm Prasad Shantaram Sangale, a data scientist passionate about turning complex data into actionable insights. I work on projects in machine learning, NLP, and predictive analytics, building pipelines that combine technical rigor with clear data storytelling. 📊🤖
 
-<!--
-**Parsu2706/Parsu2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m always open to collaboration on interesting data projects, so feel free to reach out! 💡
 
-Here are some ideas to get you started:
+🛠 Tools & Technologies:
+Python, SQL, Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn, Streamlit, Power BI, AWS, Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Domains & Expertise:
+Machine Learning, Deep Learning, Natural Language Processing (NLP), Text Classification, Sentiment Analysis, Predictive Analytics, Data Visualization
+
+You can connect with me via LinkedIn
+ or see my work on Kaggle
+.
+
+Thanks for visiting my GitHub profile! Feel free to explore my repositories to see my projects. 🚀

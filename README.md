@@ -1,7 +1,13 @@
 # Hi there! 👋  
-I'm **Prasad Shantaram Sangale**, a data scientist passionate about turning complex data into actionable insights. I work on projects in **Machine Learning**, **NLP**, and **Predictive Analytics**, building pipelines that combine technical rigor with clear data storytelling. 📊🤖
+I'm **Prasad Shantaram Sangale**, an enthusiast in **Machine Learning**, **NLP**, **Data Analysis**, and **Data Science**.  
+I enjoy learning, working with data, and building projects that turn data into meaningful insights. 📊🤖  
 
-I’m always open to collaboration on interesting data projects, so feel free to reach out! 💡
+- 🌱 Currently learning and exploring ML, NLP, and data-driven techniques  
+- 🛠️ Working on hands-on projects and experiments  
+- 🤝 Open to learning, collaboration, and interesting data-related projects  
+
+Feel free to connect or reach out! 💡
+
 
 ---
 

@@ -12,20 +12,26 @@ Feel free to connect or reach out! 💡
 ---
 
 ## 🛠 Tools & Technologies
-- **Programming & Libraries:** Python, SQL, Pandas, NumPy, Scikit-learn, PyTorch  
-- **Visualization & Dashboarding:** Matplotlib, Seaborn, Streamlit, Power BI  
-- **Cloud & DevOps:** AWS, Docker, Git  
+- **Languages:** Python, SQL
+- **Machine Learning:** Scikit-learn, XGBoost, Pandas, NumPy
+- **Deep Learning & NLP:** PyTorch, Hugging Face Transformers, spaCy, NLTK, RAG Pipelines, Fine-tuning
+- **MLOps & Tools:** Docker, MLflow, DVC, Git, GitHub Actions
+- **Databases & APIs:** FAISS, Pinecone, ChromaDB, Redis, FastAPI, Gemini API, OpenAI API
+- **Cloud & Deployment:** AWS (EC2, S3, RDS), Streamlit
+- **Visualization:** Power BI, Plotly, Matplotlib, MS Excel
 
 ---
 
 ## 🌐 Domains & Expertise
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing (NLP)  
-- Text Classification  
-- Sentiment Analysis  
-- Predictive Analytics  
-- Data Visualization  
+- Machine Learning & Predictive Analytics
+- Deep Learning & Neural Networks
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Data Science
+- Data Analysis & EDA
+- Computer Vision
+- Data Visualization & Business Intelligence
+- MLOps & Model Deployment
 
 ---
 
